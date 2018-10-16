@@ -1,2 +1,2 @@
 # resit_Oct_16
-[assginment2](https://github.com/Wuluyao/Assignments/blob/master/assignment2.ipynb)
+[exam October 16,2018](https://github.com/Wuluyao/Resit_Oct_16/blob/master/exam_Oct_16_2018.ipynb)
